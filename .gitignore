@@ -1,0 +1,4 @@
+my_application/node_modules/*
+my_application/dist/*
+my_project/node_modules/*
+my_project/dist/*
